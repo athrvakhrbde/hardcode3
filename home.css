@@ -273,7 +273,7 @@ body {
 
  .resources:hover + .hide-resources{
     display: block;
-    content: url(/hardcode3/Categories//bren.png);
+    content: url(/Assets/Category Icons/bren.png);
     height: 100px;
 }
 
@@ -299,7 +299,7 @@ body {
 
 .music:hover + .hide-music{
   display: block;
-  content: url(/hardcode3/Categories/music.png);
+  content: url(/Assets/Category Icons/music.png);
   height: 100px;
 }
 
@@ -330,7 +330,7 @@ body {
 
 .memes:hover + .hide-memes{
   display: block;
-  content: url(/hardcode3/Categories/path2403.png);
+  content: url(/Assets/Category Icons/path2403.png);
   height: 100px;
 }
 
