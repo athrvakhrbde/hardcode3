@@ -395,3 +395,7 @@ body {
 .DP {
     margin:auto;
 }
+
+body{
+    overflow-x: hidden;
+}
