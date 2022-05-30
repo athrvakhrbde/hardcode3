@@ -79,8 +79,6 @@ body {
     src: url(/HelveticaNowDisplay-Regular.woff);
       background-color: #000000;
       color: #ffffff;
-    padding-left: 5%;
-    padding-right: 5%;
     width: 580px;
     font-size: 18px;
     line-height: 26px;
@@ -163,7 +161,7 @@ body {
     width: auto;
   }
   
-/*   @media screen and (max-width: 580px) {
+   @media screen and (max-width: 580px) {
     body {
       margin: 10px auto;
       padding: 0 20px 0 20px;
@@ -171,7 +169,7 @@ body {
       word-wrap: break-word;
     }
   
-    pre {
+/*    pre {
       font-size: 14px;
       line-height: 16px;
     }
