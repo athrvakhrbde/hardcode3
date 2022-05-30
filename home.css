@@ -282,7 +282,7 @@ body {
 
  .resources:hover + .hide-resources{
     display: block;
-    content: url(/Assets/Category Icons/bren.png);
+    content: url(Assets/Category Icons/bren.png);
     height: 100px;
 }
 
