@@ -172,6 +172,10 @@ body {
       width: auto;
       word-wrap: break-word;
     }
+       
+    .logo {
+        float:center;
+       }
   
     pre {
       font-size: 14px;
