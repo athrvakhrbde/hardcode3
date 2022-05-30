@@ -239,6 +239,11 @@ body {
       font-size: 25px;
   }
 
+  .resource-category-text h1 a:hover{ 
+      color: #00ffce;
+      font-size: 25px;
+  }
+
   .resource-category-text p{ 
     color: #949494;
     font-size: 15px;
