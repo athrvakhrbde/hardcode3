@@ -75,7 +75,8 @@
 body {
     margin: 60px auto;
     margin-top: 0%;
-    font-family: Helvetica, serif;
+    font-family: HelveticaNowDisplay-Regular;
+    src: url(/HelveticaNowDisplay-Regular.woff);
       background-color: #000000;
       color: #ffffff;
   
