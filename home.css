@@ -88,6 +88,7 @@ body {
   header {
     margin-top: 30px;
     margin-bottom: 20px;
+    display:flex;
   }
   
   header a {
@@ -385,3 +386,7 @@ body {
       padding-top: 15px;
       font-size: small;
   }
+
+.DP {
+    margin:auto;
+}
