@@ -251,6 +251,10 @@ body {
     margin-bottom: 120;
 }
 
+   .resource_categories {
+    float: left;
+  }
+
   .footer {
     margin: 60px auto;
     margin-top: 0%;
