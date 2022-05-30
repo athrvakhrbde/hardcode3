@@ -79,7 +79,8 @@ body {
     src: url(/HelveticaNowDisplay-Regular.woff);
       background-color: #000000;
       color: #ffffff;
-    width: 580px;
+    width:97%;
+    max-width: 580px;
     font-size: 18px;
     line-height: 26px;
   }
