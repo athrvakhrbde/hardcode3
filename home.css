@@ -283,14 +283,14 @@ body {
       height: 200px;
   } */
 
-  .hide-resources{
+  #hide-resources{
       background-color: #00ffcc00;
       float: right;
       display: none;
       padding-top: 10px;
   }
 
- .resources:hover + .hide-resources{
+ .resources:hover + #hide-resources{
     display: inline-block;
     content: url(Assets/Category\ Icons/bren.png);
     height: 100px;
@@ -360,7 +360,7 @@ body {
     
   }
 
-.categories .resources{
+.categories resources{
     padding-bottom: 10px;
 }
 
