@@ -5,7 +5,7 @@
 }
 
 /* Style the links inside the navigation bar */
-.topnav logo a img{
+.topnav logo{
   float: left;
   color: #ffffff;
   text-align: center;
@@ -33,12 +33,12 @@
   margin-top: 9;
 }
 
-.logo a {
+/* .logo a {
     width: 35px;
     margin: 13px;
     margin-left: 2px;
     margin-top: 20px;
-}
+} */
 
 .twitter{
     width: 20px;
