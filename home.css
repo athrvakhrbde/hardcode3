@@ -5,7 +5,7 @@
 }
 
 /* Style the links inside the navigation bar */
-a.logo{ 
+.topnav a.logo{ 
   width: 35px;
     margin: 13px;
     margin-left: 2px;
