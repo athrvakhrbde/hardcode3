@@ -193,16 +193,16 @@ body {
       word-wrap: break-word;
     }
        
-    .logo {
+/*     .logo {
         margin:auto;
         margin-top: 5px
         padding:auto;
-       }
+       } */
        
-    .topnav-right {
+/*     .topnav-right {
         overflow:hidden;
         margin-botton: 20px;
-       }
+       } */
   
     pre {
       font-size: 14px;
