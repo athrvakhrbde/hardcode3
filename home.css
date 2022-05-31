@@ -87,6 +87,7 @@ body {
     font-family: HelveticaNowDisplay-Regular;
     src: url(/HelveticaNowDisplay-Regular.woff);
     src: url(/HelveticaNowDisplay-Regular.ttf);
+    src: url(/HelveticaNowDisplay-Regular.eot);
       background-color: #000000;
       color: #ffffff;
     width:97%;
