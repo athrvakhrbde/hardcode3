@@ -1,3 +1,9 @@
+@font-face {
+  font-family: HelvNow;
+  src: url(HelveticaNowDisplay-Regular.woff);
+  font-weight: bold;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: rgba(51, 51, 51, 0);
@@ -96,10 +102,10 @@
 body {
     margin: 60px auto;
     margin-top: 0%;
-    font-family: HelveticaNowDisplay-Regular;
-    src: url(/HelveticaNowDisplay-Regular.woff);
+    font-family: HelvNow;
+/*     src: url(/HelveticaNowDisplay-Regular.woff);
     src: url(/HelveticaNowDisplay-Regular.ttf);
-    src: url(/HelveticaNowDisplay-Regular.eot);
+    src: url(/HelveticaNowDisplay-Regular.eot); */
       background-color: #000000;
       color: #ffffff;
     width:97%;
