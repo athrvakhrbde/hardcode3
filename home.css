@@ -30,6 +30,10 @@
   color: rgba(255, 255, 255, 0);
 }
 
+.rightnav-aligning {
+    width:100%;
+}
+
 /* Right-aligned section inside the top navigation */
 .topnav-right {
   float: right;
