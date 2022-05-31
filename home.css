@@ -197,6 +197,10 @@ body {
         margin:auto;
         padding:auto;
        }
+       
+    .topnav-right {
+        overflow:hidden;
+       }
   
     pre {
       font-size: 14px;
