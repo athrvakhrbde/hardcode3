@@ -1,4 +1,104 @@
+@font-face {
+  font-family: HelvNow;
+  src: url(HelveticaNowDisplay-Regular.woff);
+  font-weight: bold;
+}
 
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgba(51, 51, 51, 0);
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.logo{ 
+  width: 35px;
+    margin: 13px;
+    margin-left: 2px;
+    margin-top: 20px;
+}
+
+.leftnav-aligning {
+    float:left;
+}
+
+.topnav-left {
+  float: left;
+  margin-right: 2px;
+  margin-top: 9;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: rgba(39, 39, 39, 0);
+  color: #00ffce;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04aa6d00;
+  color: rgba(255, 255, 255, 0);
+}
+
+.rightnav-aligning {
+    width:100%;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+/*   float: right; */
+  text-decoration: none;
+  margin-top: 0;
+  margin-bottom: 0;
+    text-align: right;
+    overflow: hidden;
+    margin-top: 33;
+  margin-right: 5px;
+}
+
+.topnav-right a{
+  text-decoration: none;
+  margin-left: 5%;
+  margin-top: 13px
+}
+
+
+/* .logo a {
+    width: 35px;
+    margin: 13px;
+    margin-left: 2px;
+    margin-top: 20px;
+} */
+
+.twitter{
+    width: 20px;
+/*     margin: 13px; */
+    margin-top: 5px;
+    margin-right: 0%;
+}
+
+.insta{
+    width: 17px;
+/*     margin: 13px; */
+    margin-top: 5px;
+}
+
+.linkedin{
+    width: 18px;
+/*     margin: 13px; */
+    margin-top: 3;
+    margin-right: 0 ;
+    margin-left: 0%;
+}
+
+.tinder
+{
+    width: 17px;
+/*     margin: 13px; */
+    margin-right: 0%;
+    margin-top: 4.5;
+    margin-left: 0%;
+}
 
 body {
     margin: 60px auto;
