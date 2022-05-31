@@ -38,6 +38,11 @@
   text-decoration: none;
 }
 
+.topnav-right a{
+  text-decoration: none;
+}
+
+
 /* .logo a {
     width: 35px;
     margin: 13px;
