@@ -306,3 +306,8 @@ body {
       padding-top: 15px;
       font-size: small;
   }
+
+html, body{
+width:100%;
+overflow-x:hidden;
+}
