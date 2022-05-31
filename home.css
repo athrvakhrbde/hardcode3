@@ -2,7 +2,6 @@
 .topnav {
     background-color: rgba(51, 51, 51, 0);
     overflow: hidden;
-    display: flex;
 }
 
 /* Style the links inside the navigation bar */
@@ -45,10 +44,6 @@
   text-decoration: none;
   margin-top: 0;
   margin-bottom: 0;
-  display: flex;
-  justify-content: flex-end;
-  
-  text-decoration: none;
 }
 
 .topnav-right a{
