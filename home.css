@@ -33,7 +33,6 @@
 /* Right-aligned section inside the top navigation */
 .topnav-right {
   float: right;
-  width: auto;
   text-decoration: none;
 }
 
