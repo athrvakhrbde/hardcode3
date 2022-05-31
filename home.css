@@ -5,7 +5,7 @@
 }
 
 /* Style the links inside the navigation bar */
-.topnav logo a {
+.topnav logo a img{
   float: left;
   color: #ffffff;
   text-align: center;
