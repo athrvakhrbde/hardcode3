@@ -86,6 +86,7 @@ body {
     margin-top: 0%;
     font-family: HelveticaNowDisplay-Regular;
     src: url(/HelveticaNowDisplay-Regular.woff);
+    src: url(/HelveticaNowDisplay-Regular.ttf);
       background-color: #000000;
       color: #ffffff;
     width:97%;
@@ -359,10 +360,6 @@ body {
     color: #00ffce;
     
   }
-
-.categories{
-    width: 50%;
-}
 
 .categories .resources{
     padding-bottom: 10px;
