@@ -12,6 +12,10 @@
     margin-top: 20px;
 }
 
+.leftnav-aligning {
+    float:left;
+}
+
 .topnav-left {
   float: left;
   margin-right: 2px;
