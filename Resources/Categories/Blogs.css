@@ -248,6 +248,10 @@ body {
   a {
     color:  #ffffff;
   }
+
+   a:hover{
+    color: #00ffce;
+}
   
   p {
     margin: 0 0 2ex 0;
