@@ -291,7 +291,7 @@ body {
   }
 
  .resources:hover + .hide-resources{
-    display: block;
+    display: inline-block;
     content: url(Assets/Category\ Icons/bren.png);
     height: 100px;
 }
@@ -342,7 +342,7 @@ body {
 } */
 
 .hide-memes{
-    background-color: #00ffce;
+    background-color: #00ffce00;
     float: right;
     display: none;
 }
