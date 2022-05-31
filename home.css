@@ -360,7 +360,11 @@ body {
     
   }
 
-.categories resources{
+.categories{
+    width: 50%;
+}
+
+.categories .resources{
     padding-bottom: 10px;
 }
 
