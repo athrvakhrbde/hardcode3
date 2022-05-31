@@ -6,12 +6,10 @@
 
 /* Style the links inside the navigation bar */
 .topnav logo{
-  float: left;
-  color: #ffffff;
-  text-align: center;
-  padding: 18px 16px;
-  text-decoration: none;
-  font-size: 15px;
+  width: 35px;
+    margin: 13px;
+    margin-left: 2px;
+    margin-top: 20px;
 }
 
 /* Change the color of links on hover */
