@@ -317,7 +317,7 @@ body {
 
 .music:hover + .hide-music{
   display: block;
-  content: url(/Assets/Category\ Icons/music.png);
+  content: url(/Assets/Category_Icons/music.png);
   height: 100px;
 }
 
@@ -348,7 +348,7 @@ body {
 
 .memes:hover + .hide-memes{
   display: block;
-  content: url(/Assets/Category\ Icons/path2403.png);
+  content: url(/Assets/Category\Icons/path2403.png);
   height: 100px;
 }
 
