@@ -52,22 +52,20 @@
 
 .twitter{
     width: 20px;
-    margin: 13px;
+/*     margin: 13px; */
     margin-top: 5px;
     margin-right: 0%;
 }
 
 .insta{
     width: 17px;
-    margin: 13px;
+/*     margin: 13px; */
     margin-top: 5px;
-    margin-right: 0%;
-    margin-left: 0%;
 }
 
 .linkedin{
     width: 18px;
-    margin: 13px;
+/*     margin: 13px; */
     margin-top: 3;
     margin-right: 0 ;
     margin-left: 0%;
@@ -76,7 +74,7 @@
 .tinder
 {
     width: 17px;
-    margin: 13px;
+/*     margin: 13px; */
     margin-right: 0%;
     margin-top: 4.5;
     margin-left: 0%;
