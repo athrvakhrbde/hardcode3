@@ -195,11 +195,13 @@ body {
        
     .logo {
         margin:auto;
+        margin-top: 5px
         padding:auto;
        }
        
     .topnav-right {
         overflow:hidden;
+        margin-botton: 20px;
        }
   
     pre {
