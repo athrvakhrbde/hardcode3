@@ -283,6 +283,7 @@ body {
     background-color: #00ffcc00;
     padding-top: 10px;
     margin-right: 30%;
+    position: relative;
     /* display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
@@ -290,7 +291,7 @@ body {
     align-items: left   ; */
 }
 
-.resources a:hover{
+.categories a:hover{
     padding: 10px;
     background-color: rgb(39, 39, 39);
     color: #00ffce;
@@ -388,9 +389,6 @@ body {
     color: #00ffce;
     
   }
-.categories {
-position: relative;
-}
 
 .categories a {
   color: #ffffff;
