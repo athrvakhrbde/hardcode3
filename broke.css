@@ -298,13 +298,14 @@ body {
   display: block;
 } */
 
-.wishlist {
+/* .wishlist a{
   width: 200px;
-}
+} */
 
 .resource-category-text {
   padding-top: 15px;
   padding-bottom: 25px;
+  width: 200px
 }
 
 .resource-category-text p:hover {
