@@ -294,6 +294,7 @@ body {
 .categories a:hover{
     background-color: rgb(39, 39, 39);
     color: #00ffce;
+    padding-left: 10px;
   }
 
 
