@@ -392,7 +392,8 @@ body {
 
 .categories a {
   color: #ffffff;
-    text-decoration: none;
+  text-decoration: none;
+  marigin-bottom: 15px
 }
 .categories a:hover ~ img {
   display: block;
