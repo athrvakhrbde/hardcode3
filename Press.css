@@ -287,3 +287,26 @@ body {
     width:100%;
     overflow-x:hidden;
     }
+.footer {
+    margin: 60px auto;
+    padding-top:30%;
+    font-family: Helvetica, serif;
+      background-color: #000000;
+      color: #ffffff;
+    width: 580px;
+    font-size: 18px;
+    line-height: 26px;
+    padding top: 100px;
+  }
+
+  .footer-socials{
+      float: right;
+      margin-left: 10;
+  }
+
+  .footer-text {
+      float: left;
+      color: #363636;
+      padding-top: 15px;
+      font-size: small;
+  }
