@@ -388,6 +388,26 @@ body {
     color: #00ffce;
     
   }
+.categories {
+position: relative;
+}
+
+.categories a {
+  color: #ffffff;
+    text-decoration: none;
+}
+.categories a:hover ~ img {
+  display: block;
+}
+
+.categories img {
+  position: absolute;
+  height: 100px;
+  display: none;
+  top: 100px;
+  left: 200px;
+}
+  
 
 .categories .resources{
     padding-bottom: 10px;
