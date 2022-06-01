@@ -283,7 +283,7 @@ body {
       margin-top: 30px;
   }
 
-.articles:hover li {
+.articles a:hover {
   color: #00ffce;
 }
   
