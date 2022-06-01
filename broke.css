@@ -302,11 +302,14 @@ body {
 } */
 
 .resource-category-text {
-  padding-top: 25px;
-  padding-bottom: 35px;
   width: 200px
 }
 
 .resource-category-text:hover a {
     color: #00ffce;
   }
+
+.resource-category-text a {
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
