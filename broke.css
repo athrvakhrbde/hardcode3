@@ -308,6 +308,6 @@ body {
   width: 200px
 }
 
-.resource-category-text p:hover {
+.resource-category-text:hover p {
     color: #00ffce;
   }
