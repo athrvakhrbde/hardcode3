@@ -286,9 +286,7 @@ body {
 
 .wishlist {
   display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  gap: 10px;
-  grid-auto-rows: 100px;
+  column-gap: 50px;
 }
 
 .wishlist img {
