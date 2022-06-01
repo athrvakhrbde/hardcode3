@@ -292,6 +292,7 @@ body {
 .wishlist img {
   width: 200px;
   height: auto;
+  overflow:hidden;
 }
 
 /* .categories a ~ img {
@@ -310,8 +311,4 @@ body {
 
 .resource-category-text:hover a {
     color: #00ffce;
-  }
-
-.resource-category-text a {
-    overflow:hidden;
   }
