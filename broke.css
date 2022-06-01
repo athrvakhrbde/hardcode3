@@ -311,3 +311,7 @@ body {
 .resource-category-text:hover a {
     color: #00ffce;
   }
+
+.resource-category-text a {
+    color: #00ffce;
+  }
