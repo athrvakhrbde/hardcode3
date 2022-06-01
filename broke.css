@@ -285,5 +285,9 @@ body {
     }
 
 .wishlist {
-  display: inline;
+  display: inline-flex;
+}
+
+.wishlist img {
+  height: 100px;
 }
