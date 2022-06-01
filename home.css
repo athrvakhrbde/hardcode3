@@ -292,7 +292,6 @@ body {
 }
 
 .categories a:hover{
-    padding: 10px;
     background-color: rgb(39, 39, 39);
     color: #00ffce;
   }
@@ -391,9 +390,11 @@ body {
   }
 
 .categories a {
+  display: inline-block;
   color: #ffffff;
   text-decoration: none;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+  padding: 10px;
 }
 
 .categories a:hover ~ img {
