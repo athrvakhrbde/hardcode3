@@ -290,7 +290,7 @@ body {
 }
 
 .wishlist img {
-  height: auto;
+  width: 100px;
 }
 
 /* .categories a ~ img {
