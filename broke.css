@@ -353,10 +353,6 @@ body {
   vertical-align: middle;
 }  */
 
-body {
-  margin: 0;
-}
-
 .image-grid {
   --gap: 16px;
   --num-cols: 4;
