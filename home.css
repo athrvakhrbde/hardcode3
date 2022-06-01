@@ -412,7 +412,8 @@ body {
   
 
 .categories .resources{
-    padding-bottom: 10px;
+    width: 120px;
+    height: auto;
 }
 
 .categories .music{
