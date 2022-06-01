@@ -292,6 +292,10 @@ body {
   height: 100px;
 }
 
-.categories a ~ img {
+/* .categories a ~ img {
   display: block;
+} */
+
+.wishlist a {
+  position: absolute;
 }
