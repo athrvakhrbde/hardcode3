@@ -308,3 +308,9 @@ body {
 .resource-category-text:hover a {
     color: #00ffce;
 }
+
+.resource-category-text p {
+  overflow: hidden;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
