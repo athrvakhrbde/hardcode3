@@ -291,3 +291,7 @@ body {
 .wishlist img {
   height: 100px;
 }
+
+.categories a ~ img {
+  display: block;
+}
