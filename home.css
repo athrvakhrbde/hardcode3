@@ -405,15 +405,16 @@ body {
 .categories img {
   position: absolute;
   height: 100px;
+  width: auto;
   display: none;
   top: 100px;
   left: 280px;
 }
   
-.categories .press{
+/* .categories .press{
     width: 120px;
     height: auto;
-}
+} */
 
 .categories .music{
     padding-bottom: 10px;
