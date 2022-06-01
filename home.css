@@ -393,8 +393,8 @@ body {
   display: inline-block;
   color: #ffffff;
   text-decoration: none;
-  margin-bottom: 15px;
   padding: 10px;
+  padding-left: 0px;
 }
 
 .categories a:hover ~ img {
