@@ -285,17 +285,20 @@ body {
     }
 
 .wishlist {
-  display: inline-flex;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 10px;
+  grid-auto-rows: 100px;
 }
 
 .wishlist img {
-  height: 100px;
+  height: auto;
 }
 
 /* .categories a ~ img {
   display: block;
 } */
 
-.wishlist a {
+/* .wishlist a {
   position: absolute;
-}
+} */
