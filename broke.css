@@ -252,6 +252,10 @@ body {
   p {
     margin: 0 0 2ex 0;
   }
+
+  p:hover {
+    color: #00ffce;
+  }
   
   ul {
     margin: 0 0 2ex 0;
@@ -300,4 +304,9 @@ body {
 
 .wishlist a {
   width: 200px;
+}
+
+.resource-category-text {
+  padding-top: 15px;
+  padding-bottom: 25px;
 }
