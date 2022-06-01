@@ -283,6 +283,11 @@ body {
       margin-top: 30px;
   }
 
+.articles:hover li {
+  color: #00ffce;
+}
+  
+
   html, body{
     width:100%;
     overflow-x:hidden;
