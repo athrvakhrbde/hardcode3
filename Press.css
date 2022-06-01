@@ -274,7 +274,7 @@ body {
     float: left; 
   }
 
-   a:hover{
+   .articles a:hover{
     color: #00ffce;
 }
 
