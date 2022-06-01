@@ -305,7 +305,7 @@ body {
   width: 200px;
 } */
 
-.resource-category-text:hover a {
+/* .resource-category-text:hover a {
     color: #00ffce;
 }
 
@@ -316,7 +316,7 @@ body {
 }
 
 /* stolen images grid code */
-
+/* 
 .wishlist {
   display: flex;
   flex-wrap: wrap;
@@ -324,14 +324,14 @@ body {
 }
 
 /* Create four equal columns that sits next to each other */
-.column {
+/* .column {
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
-}
+} */
 
-.column .inside-column {
+/* .column .inside-column {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
-}
+} */
