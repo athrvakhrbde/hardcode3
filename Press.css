@@ -274,6 +274,10 @@ body {
     float: left; 
   }
 
+   a:hover{
+    color: #00ffce;
+}
+
   hr {
       margin-bottom: 20px;
       margin-top: 30px;
