@@ -374,11 +374,11 @@ body {
 }
 
 .image-grid-col-2 {
-  grid-column: span auto;
+  grid-auto-columns: auto;
 }
 
 .image-grid-row-2 {
-  grid-row: span auto;
+  grid-auto-rows: auto;
 }
 
 /* Anything udner 1024px */
