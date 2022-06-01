@@ -353,7 +353,7 @@ body {
   vertical-align: middle;
 }  */
 
-.image-grid {
+/* .image-grid {
   --gap: 16px;
   --num-cols: 4;
   --row-height: 300px;
@@ -379,7 +379,7 @@ body {
 
 .image-grid-row-2 {
   grid-row: span auto;
-}
+} */
 
 /* Anything udner 1024px */
 /* @media screen and (max-width: 1024px) {
@@ -389,3 +389,15 @@ body {
   }
 } */
 
+
+.image-grid{
+  display: grid;
+  width:100%;
+  height: 717px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  text-align: center;
+  padding: 5px;
+}
