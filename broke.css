@@ -290,13 +290,14 @@ body {
 }
 
 .wishlist img {
-  width: 100px;
+  width: 200px;
+  height: auto;
 }
 
 /* .categories a ~ img {
   display: block;
 } */
 
-/* .wishlist a {
-  position: absolute;
-} */
+.wishlist a {
+  width: 200px;
+}
