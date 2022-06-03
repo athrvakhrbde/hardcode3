@@ -279,9 +279,9 @@ body {
       margin-top: 30px;
   }
 
-  .resourceS-categories {
-      display: inline-block;
+  .resources-categories {
       float:left;
+      width: 100%
   }
 
   .resource-category-img{
