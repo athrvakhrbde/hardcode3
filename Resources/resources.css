@@ -296,6 +296,7 @@ body {
   .resource-category-text h1 a{ 
       color: #ffffff;
       font-size: 25px;
+      margin-top: 0px;
   }
 
   .resource-category-text h1 a:hover{ 
