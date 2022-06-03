@@ -281,7 +281,8 @@ body {
 
   .resources-categories {
       float:left;
-      width: 100%
+      width: 100%;
+      margin-bottom: 15%;
   }
 
   .resource-category-img{
