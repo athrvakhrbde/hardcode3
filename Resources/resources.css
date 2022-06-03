@@ -136,6 +136,10 @@ body {
   header a:hover {
       border-bottom: 1px solid #999892;
   }
+
+  .resource-category-text p{ 
+    margin-bottom: 15%;
+}
   
   h1 {
     font-size: 38px;
@@ -282,7 +286,6 @@ body {
   .resources-categories {
       float:left;
       width: 100%;
-      margin-bottom: 15%;
   }
 
   .resource-category-img{
