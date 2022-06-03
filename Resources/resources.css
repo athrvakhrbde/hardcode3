@@ -293,10 +293,13 @@ body {
       padding-bottom: 30px;
   }
 
+  .resource_category-text h1 {
+    margin-top: 0px;
+}
+
   .resource-category-text h1 a{ 
       color: #ffffff;
       font-size: 25px;
-      margin-top: 0px;
   }
 
   .resource-category-text h1 a:hover{ 
