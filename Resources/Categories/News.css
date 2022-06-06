@@ -248,10 +248,6 @@ body {
   a {
     color:  #ffffff;
   }
-
-   a:hover{
-    color: #00ffce;
-}
   
   p {
     margin: 0 0 2ex 0;
@@ -283,6 +279,11 @@ body {
       margin-top: 30px;
   }
 
+html, body{
+    width:100%;
+    overflow-x:hidden;
+    }
+
   .resource-categories {
       display: inline-block;
   }
@@ -296,6 +297,11 @@ body {
       font-size: 21px;
   }
 
+  .resource-category-text a:hover{ 
+    color: #00ffce;
+    font-size: 21px;
+}
+
   .resource-category-text p{ 
     color: #949494;
     font-size: 15px;
@@ -305,9 +311,8 @@ body {
 
   .footer {
     margin: 60px auto;
-    margin-top: 0%;
-    font-family: HelveticaNowDisplay-Regular;
-    src: url(/HelveticaNowDisplay-Regular.woff);
+    padding-top:30%;
+    font-family: Helvetica, serif;
       background-color: #000000;
       color: #ffffff;
     width: 580px;
