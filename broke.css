@@ -390,7 +390,7 @@ body {
 } */
 
 
-.image-grid{
+/* .image-grid{
   display: grid;
   width:100%;
   height: 717px;
@@ -400,4 +400,9 @@ body {
   grid-row-gap: 5px;
   text-align: center;
   padding: 5px;
+} */
+
+.image-grid img{
+  width: 100%;
+  margin-bottom:25px;
 }
