@@ -570,3 +570,9 @@
 .linkedin-fab:hover {
   background: #00ffd0;
 }
+
+/* Include padding in the 100% width so the page never exceeds the screen
+   (otherwise fixed elements land off-screen on phones). */
+html, body {
+  box-sizing: border-box;
+}
