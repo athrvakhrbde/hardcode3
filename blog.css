@@ -307,3 +307,10 @@ body {
       padding-top: 15px;
       font-size: small;
   }
+
+  .watermark {
+      margin-top: 40px;
+      color: #5a5a5a;
+      font-size: 13px;
+      font-style: italic;
+  }
